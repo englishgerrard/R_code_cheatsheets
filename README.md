@@ -6,7 +6,7 @@ wo_   <- unfinshed script \
 get_  <- make a new data frame \
 plot_ <- figues \
 fun_  <- functions \
-stat_ <- analysis \
+stat_ <- analysis 
  
 
 
