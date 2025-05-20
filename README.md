@@ -11,7 +11,7 @@ stat_ <- analysis
 ### GGplot 
 
 theme(legend.position = "none") <- remove legend \
-theme(axis.text.x = element_blank()) <- remove x labels
+theme(axis.title.x = element_blank()) <- remove x labels
 
 
 
