@@ -8,6 +8,9 @@ plot_ <- figues \
 fun_  <- functions \
 stat_ <- analysis 
  
+### GGplot 
+
+theme(legend.position = "none") <- remove legend
 
 
 
